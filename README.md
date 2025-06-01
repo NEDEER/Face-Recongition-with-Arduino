@@ -50,3 +50,7 @@ v
 [Arduino --> LEDs]
 - Pin 13: Green LED
 - Pin 12: Red LED
+##  Works like this 
+![image](https://github.com/user-attachments/assets/90e0d1ab-cf86-4384-ab3f-e4bd2682a737)
+![image](https://github.com/user-attachments/assets/a55d0d05-a45e-4e73-87bb-3d7239d58d3e)
+
