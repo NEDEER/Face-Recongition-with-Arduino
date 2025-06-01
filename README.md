@@ -48,5 +48,5 @@ v
 |
 v
 [Arduino --> LEDs]
-- Pin 8: Green LED
-- Pin 9: Red LED
+- Pin 13: Green LED
+- Pin 12: Red LED
